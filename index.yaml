@@ -9,6 +9,6 @@ entries:
       sources:
         - https://github.com/helm/charts
       urls:
-        - https://github.com/gciezkowski-acc/test-helm-charts/test-hook-0.1.0.tgz
+        - https://raw.githubusercontent.com/gciezkowski-acc/test-helm-charts/refs/heads/main/test-hook/test-hook-0.1.0.tgz
       version: 0.1.0
 generated: 2024-11-08T13:03:14.000Z
